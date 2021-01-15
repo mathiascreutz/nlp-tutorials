@@ -10,7 +10,7 @@ export GIT_COMMITTER_EMAIL=anon@localhost
 git clone https://github.com/mathiascreutz/nlp-tutorials.git
 
 pip install nltk
-python -c "import nltk; nltk.download(['brown', 'gutenberg', 'wordnet'])"
+python -c "import nltk; nltk.download(['brown', 'gutenberg', 'wordnet', 'punkt'])"
 
 #, 'genesis', 'treebank', 'nps_chat', 'inaugural', 'webtext', 'wordnet', 'punkt', 'averaged_perceptron_tagger', 'brown', 'tagsets'])"
 
