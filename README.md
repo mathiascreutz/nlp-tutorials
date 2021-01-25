@@ -1,2 +1,3 @@
-# nlp-teaching-demos
-Demos of NLP related algorithms
+# NLP Tutorials
+
+Tutorials of NLP related algorithms
